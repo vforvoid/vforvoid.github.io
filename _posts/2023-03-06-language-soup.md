@@ -3,8 +3,8 @@ layout: post
 title: Programming language soup
 date: 2023-03-05 17:00:00
 description: List of the programming languages that I used so far
-tags: languages code
-categories: languages code
+tags: languages programming
+categories: languages programming
 ---
 
 It may not sound like the best idea to learn and use several programming languages at the same time, especially from a career standpoint.
@@ -54,7 +54,7 @@ Here's a list of programming languages I've worked with throughout my life, roug
 
 Note that:
 - "Experience" reflects my subjective perception of how experienced I am with a particular language in comparison to other languages I've used, not how experienced and proficient I am in comparison to some other developer or you.
-- The pros and cons I mention are based on the state of the language around the time I was using it and might not be true anymore. I wouldn't even pretend pros and const lists are comprehensive either.
+- The pros and cons I mention are based on the state of the language around the time I was using it and might not be true anymore. I wouldn't even pretend pros and const lists are comprehensive either. I could also easily miss some obvious solution for the downside of the language, as I'm just a human.
 - For the sake of brevity, I won't include things like:
   - Data markup languages and formats like HTML, XML, JSON, etc
   - Query languages like SQL, GraphQL, GraphDB, mongo, elastic search queries
@@ -76,8 +76,9 @@ Enjoyment
 
 Comments
 : Mostly used it before I turned sixteen.
-  I wrote a lot of small games for myself and my cousin on an old, dusty ZX machine.
+  I wrote a lot of small games for myself and my cousin on an [old, dusty ZX machine](/blog/2023/walking-down-the-memory-lane/).
   Tetris and Sokoban was the most complex out of them.
+  Also automated certain very repetitive parts of my math-y homework.
 : **Pros**: Very easy to pick up as a kid.
 : **Cons**: Basic is way too basic.
   The dialect I used was particularly limited, with only support for one big flat file, and manual line numbering required.
