@@ -20,11 +20,11 @@ social: true  # includes social icons at the bottom of the page
 Hello and welcome to my personal page 👋
 
 Few things about me:
-- I started developing simple games on old ZX Spectrum at around thirteen.
+- I started developing simple games on old ZX Spectrum at [around thirteen](/blog/2023/walking-down-the-memory-lane/).
   Found first freelance developer job when I was seventeen.
   I am thirty-three now, which makes it ~16 years of commercial development experience (as of 2023).
 - I **love** learning programming languages.
-  I developed in [15+ various languages](./blog/2023/language-soup/) throughout my career, 10+ of which in production.
+  I developed in [15+ various languages](/blog/2023/language-soup/) throughout my career, 10+ of which in production.
   I mostly wrote TypeScript, Python, C#, and Java.
   Elm is my ❤️ though.
 - I specialize in the backend, but I have experience with web, native mobile, and desktop client development.
